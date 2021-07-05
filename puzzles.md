@@ -15,18 +15,18 @@
    14. Get the remainder of dividing two numbers
 
 2. Functions
-   2. Fizz Buzz loop
-   3. Calculate the Golden Ratio
-   5. Factorials
-   7. Find pythagorean triples
-   7. Fibonacci numbers loop up to 100
-   8. Slice the first 5 Fibonacci numbers and sum them
-   9. Randomly shuffle the Fibonacci numbers
-   10. Sort randomised Fibonacci numbers using internals
-   11. Sort randomised Fibonacci numbers using bubble sort
-   12. Sort randomised Fibonacci numbers using quick sort
-   13. Recursively generate Fibonacci numbers
-   14. Calculate Pi to 10 decimal places
+   1. Fizz Buzz loop
+   2. Calculate the Golden Ratio
+   3. Factorials
+   4. Find pythagorean triples
+   5. Fibonacci numbers loop up to 100
+   6. Slice the first 5 Fibonacci numbers and sum them
+   7. Randomly shuffle the Fibonacci numbers
+   8. Sort randomised Fibonacci numbers using internals
+   9. Sort randomised Fibonacci numbers using bubble sort
+   10. Sort randomised Fibonacci numbers using quick sort
+   11. Recursively generate Fibonacci numbers
+   12. Calculate Pi to 10 decimal places
 
 3. Maths puzzles
    1. Calculate the radius of a circle given the chord length of a circle and its perpendicular height
